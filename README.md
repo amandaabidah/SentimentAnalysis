@@ -1,5 +1,5 @@
 # Indonesian Election Twitter/X Sentiment Analysis
-## Intoduction
+> Intoduction
 
 SCST601201 Final Project - 2022/2023
 Group Membeer: Amanda Abidah, Syazana Alya
@@ -11,11 +11,13 @@ Due to the limited free access towards Twitter API, we're using [snscrape](https
 
 The goal of our project is to extract and alayze public's opinion towards Indonesian Election in 2024.
 
-## Data Source
+---
+> Data Source
 
 Data scraping form Twitter/X.
 
-## Project Outline
+---
+> Project Outline
 
 1. Data Preprocessing
 2. Tokenization
@@ -23,7 +25,8 @@ Data scraping form Twitter/X.
 4. Stemming
 5. Analysis
 
-## Instruction on using the code:
+---
+> Instruction on using the code:
 
   1. The data set is available in this repository file.
   2. Download the "lexicon_positive" and "lexicon_negative" which contain the sentiment key words and upload it to the EDAProject_SentimentAnalysis.ipynb
