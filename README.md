@@ -1,9 +1,9 @@
 # Indonesian Election Twitter/X Sentiment Analysis
 > Intoduction
 
-SCST601201 Final Project - 2022/2023
-Group Membeer: Amanda Abidah, Syazana Alya
-Sentiment Analysis
+SCST601201 Final Project - 2022/2023 \
+Group Member: Amanda Abidah, Syazana Alya\
+Sentiment Analysis\
 Statistics, University of Indonesia
 
 As the 2024 Indonesian presidential election approaches, public have begun to express their opinions on various social media platforms regarding the candidates running for the presidency, including Twitter, now known as X. Our team has decided to analyze public sentiment towards one of the potential presidential candidates, Prabowo Subianto.
